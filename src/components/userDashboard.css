@@ -1,0 +1,46 @@
+.dashboard{
+    padding: 20px;
+  }
+  
+  .dashboard-enrolled-courses-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .dashboard-enrolled-course-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .dashboard-enrolled-course-item img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .dashboard-enrolled-course-item h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .dashboard-enrolled-course-item p {
+    margin-bottom: 5px;
+  }
+  
+  .progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .progress-bar-fill {
+    height: 100%;
+    background-color: #007bff;
+  }
+  
