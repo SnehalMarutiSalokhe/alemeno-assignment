@@ -8,7 +8,7 @@ To run the application locally, follow these steps:
 4. Run `npm start` to start the development server.
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
-Alternatively, you can access the deployed version of the application by clicking [here](link-to-deployment).
+Alternatively, you can access the deployed version of the application by clicking [here](https://alemeno-assignment-orcin.vercel.app/).
 
 ## Pages
 
